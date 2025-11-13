@@ -1,8 +1,8 @@
 My simple implementations of famous papers from scratch for learning purposes,
 
-RNN:
+RNN for text complition:
   https://github.com/Parsa744/Simple_RNN_from_scratch
-transformer:
+transformer for text translation:
   https://github.com/Parsa744/Simple_Transformer_from_scratch
 ViT for CIFAR10 classification:
   https://github.com/Parsa744/Simple_ViT_from_scratch
