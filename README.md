@@ -9,4 +9,4 @@ My simple implementations of famous papers from scratch for learning purposes,
 | **BPE** | Simple BPE | Radford et al.  (2018) | [View Code](https://github.com/Parsa744/Simple_BPE) |
 | **DDPM** | Simple DDPM (Denoising Diffusion Probabilistic Model) | Ho et al.  (2020) | [View Code](https://github.com/Parsa744/Simple_DDPM) |
 | **GPT** | Simple GPT for spam clasification | Radford et al.  (2018) | [View Code](https://github.com/Parsa744/GPT_from_scratch) |
-| **Agent** | Simple Agent that can code with memory | - | [View Code](https://github.com/Parsa744/gent_simple_from_scratch) |
+| **Agent** | Simple Agent that can code with memory | - | [View Code](https://github.com/Parsa744/Agent_simple_from_scratch) |
